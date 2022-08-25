@@ -1,16 +1,13 @@
-### Hi there 👋
-
 # About ME:
-I'm a fresher at IIT Kharagpur, persuing Btech. in Metallurgical and Materials Engineering. I am an avid programmer and learner.
-- yup, 2019-20 lockdown passout 😅.
-- New to GitHub.
-- Star Wars fan .
+I'm a pre-final year undrgrad at IIT Kharagpur, pursuing Btech. in Metallurgical and Materials Engineering. I am an avid electronics and enbedded systems enthusiast, and fancy learning about semiconductors and solid state devices.
 
-# I am comfortable with:
+### I am comfortable with:
+
+- C, C++, python, Visual Basic
+- AVR C, AVRASM,
+- Verilog
 - HTML 5, CSS 3, JS
-- C, C++
-- Visual Basic
 
 Currently trying to learn a lot more...
 
-### "May the force be with you"
+**_"May the force be with you..."_**
