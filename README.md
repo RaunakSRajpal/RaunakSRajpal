@@ -1,5 +1,5 @@
 # About ME:
-I'm a pre-final year undrgrad at IIT Kharagpur, pursuing Btech. in Metallurgical and Materials Engineering. I am an avid electronics and enbedded systems enthusiast, and fancy learning about semiconductors and solid state devices.
+I'm a pre-final year undrgrad at IIT Kharagpur, pursuing Btech. in Metallurgical and Materials Engineering. I am an avid electronics and embedded systems enthusiast, and fancy learning about semiconductors and solid state devices.
 
 ### I am comfortable with:
 
